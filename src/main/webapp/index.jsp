@@ -5,7 +5,7 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello, COMMIT!" %>
+<h1><%= "Hello, COMMITing main!" %>
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
