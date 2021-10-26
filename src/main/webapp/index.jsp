@@ -5,7 +5,7 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello trailing /" %>
+<h1><%= "Hello trailing / Test again" %>
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
